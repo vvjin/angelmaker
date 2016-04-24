@@ -19,6 +19,10 @@
         return DataSourceBuilder.create().build();
     }
   </pre>
+## jhipster
+  <code>
+https://jhipster.github.io/
+  </code>
 ## webx
 
 ## node
